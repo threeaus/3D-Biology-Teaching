@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.*
+public/assets/models/*.glb
+public/assets/images/**/*.png
